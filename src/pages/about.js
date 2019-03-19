@@ -2,9 +2,9 @@ import React from "react"
 
 import Layout from "../components/layout"
 
-const IndexPage = () => (
+const AboutPage = () => (
   <Layout>
-    <h1>Home</h1>
+    <h1>About</h1>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -32,4 +32,4 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
+export default AboutPage
